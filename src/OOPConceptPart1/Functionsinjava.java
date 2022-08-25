@@ -9,6 +9,16 @@ public class Functionsinjava {
 		
 		obj.test();
 		
+		int l=obj.pqr();
+		System.out.println(l);
+		
+		String s1 = obj.qa();
+		System.out.println(s1);
+		
+		int div=obj.division(30, 10);
+		System.out.println(div);
+		
+		
 	}
 		
 		public void test() {
